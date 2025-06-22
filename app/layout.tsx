@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "L5M - Limit 5 Minutes",
   description: "Plataforma de compartilhamento de vídeos de até 5 minutos",
-    generator: 'v0.dev'
+    generator: 'Rafael Lacerda'
 }
 
 export default function RootLayout({

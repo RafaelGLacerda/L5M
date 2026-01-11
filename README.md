@@ -28,13 +28,4 @@ Testem: https://l5m.onrender.com/
 - **Armazenamento de Vídeos**: AWS S3 / Cloudinary / Firebase Storage *(dependendo da implementação)*
 - **Autenticação**: JWT / OAuth / Firebase Auth *(especifique a usada)*
 
----
 
-## ⚙️ Como Rodar Localmente
-
-1. **Clone o repositório**
-   ```bash
-   git clone https://github.com/RafaelGLacerda/L5M.git
-   cd L5M
-   npm install --force && npm run build
-   npm start
